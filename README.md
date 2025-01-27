@@ -5,5 +5,7 @@ Methodology: We collected our dataset from various sources to enhance accessibil
 
 Result: A confusion matrix was utilized to evaluate the performance of deep learning models on a rust image dataset, with metrics including precision, accuracy, recall, the Dice coefficient (F1 Score), and intersection over union (IoU). The dataset comprised 203 rust images, including augmented samples, which were used to train the SegFormer deep learning model. The dataset was split into three subsets: 80% for training, 20% for validation, and 10% for testing.
 
+Read me.pdf
+
  
 
